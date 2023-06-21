@@ -13,7 +13,7 @@ const Header = () => {
   };
 
   return (
-    <div className="fixed top-0 pt-14 pb-6 text-white w-full h-10 flex justify-center items-center bg-black lg:bg-transparent">
+    <div className="fixed z-[5] top-0 pt-14 pb-6 text-white w-full h-10 flex justify-center items-center bg-black">
       <div className="w-[85%] h-full flex justify-between items-center text-xs">
         <div className="flex items-center gap-7 text-[#f7f7f7]">
           <div className="flex items-center gap-2">

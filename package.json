@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port 2222 --strictPort",
+    "dev": "vite --port 8004 --strictPort",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview --port 2222 --strictPort",
-    "serve": "vite preview --port 2222 --strictPort"
+    "preview": "vite preview --port 8004 --strictPort",
+    "serve": "vite preview --port 8004 --strictPort"
   },
   "dependencies": {
     "@types/react-icons": "^3.0.0",

@@ -1,11 +1,12 @@
 import { Outlet } from "react-router-dom";
-import { Header } from "../blocks";
+import { Footer, Header } from "../blocks";
 
 const Landing = () => {
   return (
     <>
       <Header />
       <Outlet />
+      <Footer />
     </>
   );
 };
