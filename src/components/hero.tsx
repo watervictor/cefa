@@ -20,7 +20,7 @@ const Hero = () => {
             The
             <span className="text-[#888888]"> most </span>
             <br />
-            secure crypto
+            secure crypo
             <br />
             <span className="text-[#888888]"> trading </span>
             center
@@ -66,4 +66,5 @@ const Hero = () => {
     </div>
   );
 };
+// nnnnnnn
 export default Hero;
